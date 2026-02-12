@@ -1,2 +1,30 @@
-# SNAKE_GAME_WITHHAND
-A real-time Snake game controlled using hand gestures captured from a webcam. This project combines Computer Vision and Game Development to replace keyboard controls with hand movement.
+Snake game controlled using hand gestures from webcam.
+
+Requirements
+
+Install the required libraries:
+
+pip install opencv-python mediapipe pygame
+
+Run the Project
+
+Open terminal in project folder
+
+Run:
+
+python main.py
+
+
+Make sure your webcam is enabled.
+
+Controls
+
+Move your index finger to control the snake:
+
+Move hand UP → Snake goes UP
+
+Move hand DOWN → Snake goes DOWN
+
+Move hand LEFT → Snake goes LEFT
+
+Move hand RIGHT → Snake goes RIGHT
