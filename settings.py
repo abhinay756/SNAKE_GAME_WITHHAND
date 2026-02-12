@@ -1,0 +1,7 @@
+WIDTH = 600
+HEIGHT = 600
+BLOCK_SIZE = 20
+SPEED = 5
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
